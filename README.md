@@ -9,13 +9,22 @@ lo que ha llevado a una fuerte demanda por desarrolladores con acabados conocimi
 
 <h1> Principales observaciones a considerar </h1>
 
-<li> Alta demanda
-<P> Existe una creciente demanda por incoprorar desarrolladores que permitan cubrir un amplio abanico de servicios dentro y fuera de la web, no obstante en la actualidad el mercado apunta a profesionales expertos Full Stack quienes poseen sólidos conocimientos en los pluggins mas utilizados como son JavaScript, React, Node JS, Mongo DB entre otros. </p>
+<li> <h2> Alta demanda </h2>
+<P> Existe una creciente demanda por incoprorar desarrolladores que permitan cubrir un amplio abanico de servicios dentro y fuera de la web, no obstante en la actualidad el mercado apunta a profesionales expertos Full Stack quienes poseen sólidos conocimientos en los pluggins mas utilizados como son: 
+<li>JavaScript 
+<li>React 
+<li>Node JS 
+<li>Mongo DB entre otros. </p>
   
 
-<li> Baja oferta
-<p> Por su parte en Europa el reporte de Barcelona Digital Talent del Mobile World Congress aseguro que en dicho continente habria una demanda de 900 mil puestos para desarrolladores, mientras que en Francia la Cifra fue de 481 mil, en Italia 308 mil y en Polonia 297 mil.
-  No obstante aquello la predicción no se cumplio quedando aun un deficit de puestos por cubrir de al menos un 35% superior a la estimacion original. (Fuente Notipress.mx)
+<li> <h2> Baja oferta </h2>
+<p> Por su parte en Europa el reporte de Barcelona Digital Talent del Mobile World Congress aseguro que: 
+<li>Tan solo en España habria una demanda de 900 mil puestos para desarrolladores 
+<li>En Francia la Cifra fue de 481.000 
+<li>En Italia 308.000 y en 
+<li>Polonia 297.000.
+  
+<p>No obstante aquello la predicción no se cumplio quedando aun un deficit de puestos por cubrir de al menos un 35% superior a la estimacion original. (Fuente Notipress.mx)</p>
   
   
 <a href="https://business.linkedin.com/content/dam/me/business/en-us/talent-solutions/emerging-jobs-report/Informe-de-Empleos-Emergentes-Mexico-2020.pdf">
